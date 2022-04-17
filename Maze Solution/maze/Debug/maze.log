@@ -1,1 +1,5 @@
-﻿
+﻿  main.c
+D:\MyDataLibrary\C Project\maze\Maze Solution\maze\maze.h(84,42): warning C4028: 形参 2 与声明不同
+D:\MyDataLibrary\C Project\maze\Maze Solution\maze\maze.h(84,53): warning C4028: 形参 3 与声明不同
+D:\MyDataLibrary\C Project\maze\Maze Solution\maze\main.c(10,18): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  maze.vcxproj -> D:\MyDataLibrary\C Project\maze\Maze Solution\Debug\maze.exe
